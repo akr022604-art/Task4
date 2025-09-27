@@ -17,4 +17,4 @@ Notes.java # Main Java program
 notes.txt # File where notes are stored
 README.md # Project documentation
 ## output screeenshot
-![output](task4/output.png)
+![output](screenshot4/1.png)
